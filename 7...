@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+void main()
+{
+    int i;
+
+    for(i = 7; i <= 70; i = i + 7)
+    {
+        printf("%d\n", i);
+    }
+}
